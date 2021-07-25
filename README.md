@@ -8,3 +8,4 @@ FPS game where balloons spawn in real-time frame
 </p>
 
 ## Current progress:
+<img src=https://github.com/Aishanipach/AR_BalloonGame/blob/main/Basic_1.gif width="500" height="240"/>
